@@ -14,14 +14,14 @@ We are excited to welcome you to the GitHub Fundamentals course, part of the Sum
 
 ```markdown
 ## Name
-Add your name here.
+Bhavanari Satwik
 
 ## Photo
-![Your Name](https://link-to-your-photo.jpg)
+![Bhavanari Satwik](https://ibb.co/XLHD8Wz)
 
 ## Introduction
 A brief introduction about yourself.
 
 ## Social Media
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [GitHub](https://github.com/Bhavanarisatwik)
+- [LinkedIn](https://linkedin.com/in/Satwik Bhvanari)
