@@ -24,4 +24,4 @@ A brief introduction about yourself.
 
 ## Social Media
 - [GitHub](https://github.com/Bhavanarisatwik)
-- [LinkedIn](https://linkedin.com/in/Satwik Bhvanari)
+- [LinkedIn](https://linkedin.com/in/SatwikBhavanari)
